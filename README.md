@@ -1,3 +1,4 @@
+[![Build Status](https://dedwards25.visualstudio.com/Azure%20Pipeline/_apis/build/status/Azure%20Pipeline-CI?branchName=master)](https://dedwards25.visualstudio.com/Azure%20Pipeline/_build/latest?definitionId=4&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
